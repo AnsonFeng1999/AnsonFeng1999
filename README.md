@@ -3,7 +3,7 @@
 ### Introduction
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🔭 I’m currently working on [Personal showcasing](github.com/AnsonFeng1999/CreateWithCodeUnity)
+- 🔭 I’m currently working on [Personal showcasing](https://github.com/AnsonFeng1999/CreateWithCodeUnity)
 - 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**
 - 👯 I’m looking to collaborate on **Any Games, or Game Jams**
 - 📫 How to reach me: **ansonfeng1999@gmail.com**
