@@ -3,12 +3,12 @@
 ### Introduction
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🔭 I’m currently working on [Personal showcasing](https://github.com/AnsonFeng1999/CreateWithCodeUnity)
+- 🔭 I’m currently working on [Beautiful Idle Game](https://github.com/AnsonFeng1999/Beautiful-Idle-Game)
 - 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**
 - 👯 I’m looking to collaborate on **Any Games, or Game Jams**
 - 📫 How to reach me: **ansonfeng1999@gmail.com**
 - 😄 Pronouns: **Taihou, Tai or Anson**
-- ⚡ Fun fact: I love games, and I have more than **2000hr** on Tactical shooter **Rainbow 6 Siege**.
+- ⚡ Fun fact: I love games, and I have more than **2000hr** on the Tactical shooter **Rainbow 6 Siege**.
 
  ### Connect with me: 
  <p align="left">
