@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love games, and I have more than **2000hr** on the Tactical shooter **Rainbow 6 Siege**.
 
  ### Connect with me: 
- <p align="left">
+ <p align="center">
  <a href="https://taihoudesu.itch.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AnsonFeng1999/AnsonFeng1999/blob/8d87d3efc7ad62a5638aac3f0dffb2795771a441/itchio-logo-black.png" alt="itch.io" width="150" height="40"/> </a>
 
 ### Languages and Tools:
