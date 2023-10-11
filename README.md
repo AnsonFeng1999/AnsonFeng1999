@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate on **Any Games, or Game Jams**
 - 📫 How to reach me: **ansonfeng1999@gmail.com**
 - 😄 Pronouns: **Taihou, Tai or Anson**
-- ⚡ Fun fact: I love games, and I have more than **2000hr** on the Tactical shooter **Rainbow 6 Siege**.
+- ⚡ Fun fact: I love games, and I have ***2000hr+*** on the Tactical Shooter [***Rainbow 6 Siege***](https://www.ubisoft.com/en-ca/game/rainbow-six/siege).
+- 📖 I'm reading [**Game Programming Pattern**](https://gameprogrammingpatterns.com/) recenly, currently on [this chapter](https://gameprogrammingpatterns.com/flyweight.html).
 - 🌐 You might also want to check out my personal website [**here(WIP)**](https://taihouanf.github.io) And my [**Itch.io Profile Page**](https://taihoudesu.itch.io/) where contains games I made.
 
 ## Summary
