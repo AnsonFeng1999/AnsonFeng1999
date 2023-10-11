@@ -43,6 +43,6 @@
   
 * ### ⚒Tools:
   * #### Developing tools:
-    [![My Langs](https://skillicons.dev/icons?i=vscode,visualstudio,git,vite,docker,aws)](https://skillicons.dev)
+    [![My Langs](https://skillicons.dev/icons?i=vscode,visualstudio,git,vite)](https://skillicons.dev)
   * #### Frameworks(Familiar & learning):
-    [![My Langs](https://skillicons.dev/icons?i=flask,nodejs,spring,vue,django)](https://skillicons.dev)
+    [![My Langs](https://skillicons.dev/icons?i=flask,nodejs,spring)](https://skillicons.dev)
