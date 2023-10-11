@@ -28,19 +28,9 @@
 
 ## Languages and Tools:
 * ### 🎮Game Development:
-  * #### Mostly work on:
-    [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-  * #### Learning:
-    [![My Skills](https://skillicons.dev/icons?i=unreal,blender)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=unity,unreal,blender)](https://skillicons.dev)
 * ### 👩‍💻Languages:
-  * #### Prolific in (As they are used by Unity/Unreal):
-    [![My Langs](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
-  * #### Familiar with:
-    [![My Langs](https://skillicons.dev/icons?i=py,java,js,html,css,mysql)](https://skillicons.dev)
-  * #### Learning:
-    [![My Langs](https://skillicons.dev/icons?i=go,kotlin)](https://skillicons.dev)
+    [![My Langs](https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,html,css,go,kotlin,mysql)](https://skillicons.dev)
 * ### ⚒Tools:
-  * #### Developing tools:
-    [![My Langs](https://skillicons.dev/icons?i=vscode,visualstudio,git,vite)](https://skillicons.dev)
-  * #### Frameworks(Familiar & learning):
-    [![My Langs](https://skillicons.dev/icons?i=flask,nodejs,spring)](https://skillicons.dev)
+    [![My Langs](https://skillicons.dev/icons?i=vscode,visualstudio,git,vite,flask,nodejs,spring)](https://skillicons.dev)
+
