@@ -7,10 +7,10 @@
 - 👀 And you might find the [List of projects](https://github.com/TaihouAnF/TaihouAnF/blob/main/Anson_link_to_work.pdf) here 
 - 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**
 - 👯 I’m looking to collaborate on **Any Games, or Game Jams**
+- - 📖 I'm reading [**Game Programming Pattern**](https://gameprogrammingpatterns.com/) recenly, currently on [this chapter](https://gameprogrammingpatterns.com/flyweight.html).
 - 📫 How to reach me: **ansonfeng1999@gmail.com**
 - 😄 Pronouns: **Taihou, Tai or Anson**
 - ⚡ Fun fact: I love games, and I have ***2000hr+*** on the Tactical Shooter [***Rainbow 6 Siege***](https://www.ubisoft.com/en-ca/game/rainbow-six/siege).
-- 📖 I'm reading [**Game Programming Pattern**](https://gameprogrammingpatterns.com/) recenly, currently on [this chapter](https://gameprogrammingpatterns.com/flyweight.html).
 - 🌐 You might also want to check out my personal website [**here(WIP)**](https://taihouanf.github.io) And my [**Itch.io Profile Page**](https://taihoudesu.itch.io/) where contains games I made.
 
 ## Summary
@@ -27,13 +27,11 @@
  </p>
 
 ## Languages and Tools:
-
 * ### 🎮Game Development:
   * #### Mostly work on:
     [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
   * #### Learning:
     [![My Skills](https://skillicons.dev/icons?i=unreal,blender)](https://skillicons.dev)
-
 * ### 👩‍💻Languages:
   * #### Prolific in (As they are used by Unity/Unreal):
     [![My Langs](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
@@ -41,7 +39,6 @@
     [![My Langs](https://skillicons.dev/icons?i=py,java,js,html,css,mysql)](https://skillicons.dev)
   * #### Learning:
     [![My Langs](https://skillicons.dev/icons?i=go,kotlin)](https://skillicons.dev)
-  
 * ### ⚒Tools:
   * #### Developing tools:
     [![My Langs](https://skillicons.dev/icons?i=vscode,visualstudio,git,vite)](https://skillicons.dev)
