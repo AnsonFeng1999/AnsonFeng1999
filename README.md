@@ -3,7 +3,7 @@
 ## Introduction
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🔭 I’m currently working on [**Personal Website**](https://github.com/TaihouAnF/TaihouAnF.github.io)
+- 🔭 I’m currently working on [**SDL_demos**](https://github.com/TaihouAnF/SDL_Demos) and [**Fighters**](https://github.com/TaihouAnF/Fighters)
 - 👀 And you might find the [**List of projects**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Anson_link_to_work.pdf) here 
 - 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**
 - 👯 I’m looking to collaborate on ***Any Games, or Game Jams***
