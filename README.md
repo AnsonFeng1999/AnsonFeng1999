@@ -15,16 +15,10 @@
 
 ## Summary
 
-<div align="center">
- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaihouAnF&theme=tokyonight) <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaihouAnF&theme=tokyonight) -->
 
-</div>
-
- ### Connect with me: 
- <p align="center">
+### Connect with me: 
  <a href="https://taihoudesu.itch.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/AnsonFeng1999/AnsonFeng1999/blob/8d87d3efc7ad62a5638aac3f0dffb2795771a441/itchio-logo-black.png" alt="itch.io" width="150" height="40"/> </a>
- </p>
 
 ## Languages and Tools:
 * ### 🎮Game Development:
