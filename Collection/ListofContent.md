@@ -8,7 +8,7 @@
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Iron_Jungle.png"/>
 </p>
 
-* Complete Game demo: [Demo](https://github.com/TaihouAnF/Iron-Jungle) | A Playthrough Video: [Playthrough](https://youtu.be/sWqLsdyJnhs?si=t9zM-WKvnA_MBHah)
+* Complete Game demo: [Demo](https://leption.itch.io/iron-jungle) | A Playthrough Video: [Playthrough](https://youtu.be/sWqLsdyJnhs?si=t9zM-WKvnA_MBHah)
 * A 2.5D platformer game with unique grapple/swinging feature to help you to go up to the destination, developed using Unity3D.
 * Game Developer and Level Designer:
   * Developed the core movement, and grappling/swinging ability of the player, collaborated with the team to integrate animation, sound with the movement;
