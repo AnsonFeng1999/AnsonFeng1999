@@ -49,6 +49,7 @@
   * Developed the "Shifting Dimensions" feature and a corresponding movement system using C#
   * Synchronized the character’s animation with the player’s movement using Unity Animator system
   * Applied particle and sound effects in the game to improve visual and auditory feedback given to players
+  * Implemented the Tutorial level for players
 * Achieved **#15** in story and **#80** in theme out of 1000 submissions, and received **500+** views on [Itch.io](https://itch.io/)
 * Unity3D, C#, Unity Animator, Visual Studio
 
