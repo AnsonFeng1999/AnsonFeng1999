@@ -1,4 +1,5 @@
-[Back To Main Page](https://github.com/TaihouAnF)
+<a name="readme-top"> [Back To Main Page](https://github.com/TaihouAnF) </a>
+
 
 <h1 align="center">💼 Projects </h1>
 
@@ -16,7 +17,7 @@
   * Designed **2** distinct level (easy and medium difficulty)
 * **300+** downloads and views on [Itch.io](https://itch.io/) and the number is still growing
 * Unity3D, C#, Unity Physics: SpringJoint, Visual Studio
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ---
 
 ### [Beautiful Idle Game - Zombie Cleaning Service](https://github.com/TaihouAnF/Beautiful-Idle-Game) | June, 2023
@@ -34,6 +35,7 @@
   * Developed in game shopping system and integrated with the turret system
 * **200+** downloads and plays under category of "idle" on [Itch.io](https://itch.io/)
 * Unity3D, C#, Visual Studio, A* Algorithm (for path finding of NPC)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -50,7 +52,8 @@
   * Synchronized the character’s animation with the player’s movement using Unity Animator system
   * Applied particle and sound effects in the game to improve visual and auditory feedback given to players
   * Implemented the Tutorial level for players
-* Achieved **#15** in story and **#80** in theme out of 1000 submissions, and received **500+** views on [Itch.io](https://itch.io/)
+* **#15** in story and **#80** in theme out of 1000 submissions, and received **500+** views on [Itch.io](https://itch.io/)
 * Unity3D, C#, Unity Animator, Visual Studio
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
