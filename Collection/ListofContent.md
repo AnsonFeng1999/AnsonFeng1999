@@ -8,7 +8,7 @@
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Iron_Jungle.png"/>
 </p>
 
-* Complete Game demo: [Demo](https://leption.itch.io/iron-jungle) | A Playthrough Video: [YouTube Video](https://youtu.be/sWqLsdyJnhs)
+* Complete Game demo: [**Demo**](https://leption.itch.io/iron-jungle) | A Playthrough Video: [**YouTube Video**](https://youtu.be/sWqLsdyJnhs)
 * A 2.5D platformer game with unique grapple/swinging feature to help you to go up to the destination, developed using Unity3D.
 * Game Developer and Level Designer:
   * Developed the core movement, and grappling/swinging ability of the player using SpringJoint feature; collaborated with the team to integrate animation, sound with the movement
@@ -25,7 +25,7 @@
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Zombie_Cleaning.png"/>
 </p>
 
-* Complete Game demo: [Demo](https://taihoudesu.itch.io/beautiful-idle-game) | A Playthrough Video: [YouTube Video](https://youtu.be/pTjxnDoNzSo)
+* Complete Game demo: [**Demo**](https://taihoudesu.itch.io/beautiful-idle-game) | A Playthrough Video: [**YouTube Video**](https://youtu.be/pTjxnDoNzSo)
 * An isometric view idle game with a littel tower defense developed using Unity3D. Purchase and build turrets to kill infinitely spawning "zombies" and get rewards.
 * Game Developer:
   * Developed turret building system which player can build turret when clicking on valid tiles
@@ -34,5 +34,22 @@
   * Developed in game shopping system and integrated with the turret system
 * **200+** downloads and plays under category of "idle" on [Itch.io](https://itch.io/)
 * Unity3D, C#, Visual Studio, A* Algorithm (for path finding of NPC)
+
+---
+
+### [Shifting Dimension](https://github.com/TaihouAnF/Shifting_Dimension) | May, 2023
+
+<p align="center">
+  <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Shifting_dimension.png"/>
+</p>
+
+* Complete Game demo: [**Demo**](https://taihoudesu.itch.io/shifting-dimension) | A Playthrough Video: [**YouTube Video**](https://youtu.be/65fz8wysiCg)
+* A 2.5D puzzle platformer where you would use a “shifting dimension” feature to stand on platforms, to dodge attacks, and to go pass obstacles. The final destination is on the right end of the map.
+* Game Developer and Level Designer:
+  * Developed the "Shifting Dimensions" feature and a corresponding movement system using C#
+  * Synchronized the character’s animation with the player’s movement using Unity Animator system
+  * Applied particle and sound effects in the game to improve visual and auditory feedback given to players
+* Achieved **#15** in story and **#80** in theme out of 1000 submissions, and received **500+** views on [Itch.io](https://itch.io/)
+* Unity3D, C#, Unity Animator, Visual Studio
 
 ---
