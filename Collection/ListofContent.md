@@ -59,7 +59,7 @@
 
 ---
 
-### [2D/3D Rendering Engine](https://github.com/TaihouAnF/Basic-Rendering-Engine) | May, 2023
+### [2D/3D Rendering Engine](https://github.com/TaihouAnF/Basic-Rendering-Engine) | Spetember, 2022 - December, 2022
 
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Renderer.png"/>
