@@ -16,7 +16,7 @@
   * Developed multiple platform behaviors, which various platforms can be created by changing combination of behaviors
   * Designed **2** distinct level (easy and medium difficulty)
 * **300+** downloads and views on [Itch.io](https://itch.io/) and the number is still growing
-* Unity3D, C#, Unity Physics: SpringJoint, Visual Studio
+* Unity3D, C#, Unity Physics: SpringJoint, Visual Studio, Git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -35,7 +35,7 @@
   * Developed turret firing feature and implemented a "slow effect" mechanic
   * Developed in game shopping system and integrated with the turret system
 * **200+** downloads and plays under category of "idle" on [Itch.io](https://itch.io/)
-* Unity3D, C#, Visual Studio, A* Algorithm (for path finding of NPC)
+* Unity3D, C#, A* Algorithm (for path finding of NPC), Visual Studio, Git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -54,7 +54,26 @@
   * Applied particle and sound effects in the game to improve visual and auditory feedback given to players
   * Implemented the Tutorial level for players
 * **#15** in story and **#80** in theme out of 1000 submissions, and received **500+** views on [Itch.io](https://itch.io/)
-* Unity3D, C#, Unity Animator, Visual Studio
+* Unity3D, C#, Unity Animator, Visual Studio, Git
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+### [2D/3D Rendering Engine](https://github.com/TaihouAnF/Basic-Rendering-Engine) | May, 2023
+
+<p align="center">
+  <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Renderer.png"/>
+</p>
+
+* A 2D light simulator and 3D Rendering Engine with Ray-Tracing and Path-Tracing feature developed by using C.\
+Detailed description can be found in the project.
+* Developer and Maintainer:
+  * Simulated light rays propagation (reflecting, refracting, and diffusing) in 2D with point light sources
+  * Developed basic backward Ray-Tracing using local [**"Phong Model"**](https://en.wikipedia.org/wiki/Phong_reflection_model) and point light source
+  * Improved the previous Ray-Tracer to support more features (including multi-threading, anti-aliasing, area light sources, mappings and etc)
+  * Implemented Path-Tracing with Importance Sampling and Explicit light sampling
+* Ray-Tracing feature passed 98% benchmark tests, and Path-Traceing feature can generate realistic picture with low level of noise
+* C, Ray-Tracing, Path-Tracing, Visual Studio Code, Git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
