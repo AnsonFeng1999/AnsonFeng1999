@@ -85,11 +85,11 @@ A detailed description can be found in the project.
 </p> 
 
 * Game Demo: [**Demo**](https://github.com/TaihouAnF/beepboopbabies/releases/tag/V2.0) | Gameplay Trailer: [**YouTube Video**](https://youtu.be/6aB8FIxI_tw)
-* A co-op survival party game where you and your friends run a robot daycare, inspired by overcooked and developed by Unity.
+* A co-op survival party game where you and your friends run a robot daycare, inspired by overcooked and developed by using Unity3D.
 * Engaged as a developer in the middle of development:
-  * Developed extra consequences for robotic "babies" (lacking oil, fuel, etc), and the "overcharging" feature for NPCs, which will happen when NPCs are staying too long on charge station
+  * Developed extra consequences for robotic "babies" (lacking oil, fuel, etc), and the "overcharging" feature for staying too long on charge station
   * Integrated visual notification to warn players for missing NPC's needs
-  * Collabrated with model team to implement Level 2 "Space Station"
+  * Collaborated with model team to implement Level 2 "Space Station"
 * The game demo was presented on-site on LevelUp Showcase 2023 Toronto, received positive feedback from players.
 * Unity3D, C#, Coroutine, Visual Studio, Git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
