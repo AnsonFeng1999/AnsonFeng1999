@@ -113,3 +113,31 @@ A detailed description can be found in the project.
 
 ---
 
+### [Fighter](https://github.com/TaihouAnF/Fighters) | TBD
+
+<!---
+<p align="center">
+  <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/PickEasy.png"/>
+</p> --->
+
+* A WIP personal game project, inspired by 2D vertical bullet games, developed by using Unity3D.
+* Developer, and I will be applying multiple design patterns into the development of the game.
+* Unity3D, C#, Blender
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+### [SDL_Demos](https://github.com/TaihouAnF/SDL_Demos) | TBD
+
+<!---
+<p align="center">
+  <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/PickEasy.png"/>
+</p> --->
+
+* A WIP personal game project, replicating famous simple games like Tetris or Pong, in C++.
+* Developer, and I will be using skills I learned to make these games in plain C++.
+* C++, SDL
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
