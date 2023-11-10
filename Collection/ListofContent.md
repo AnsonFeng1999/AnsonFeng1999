@@ -95,3 +95,21 @@ A detailed description can be found in the project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
+
+### [PickEasy Website App](https://github.com/TaihouAnF/CSCC01_PickEasy_team01_project) | May, 2020 - Aug, 2020
+
+<p align="center">
+  <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/PickEasy.png"/>
+</p>
+
+* A gamified restaurant web app by integrating coupon and achievement system, developed by using python Flask.
+* Developer:
+  * Implemented registration & login system for users using Python and MySQL in the 1st sprint 
+  * Cooperated actively to build the core feature: Achievement System
+  * Designed unit test suites for multiple components throughout the development
+* The final demo was approved by the client “PickEasy”, achieving 80% satisfaction rate.
+* Python, MySQL, HTML/CSS, Flask, Git, Trello, Scrum
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
