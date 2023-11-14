@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T22:10:58.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4IiirVgJxbhlMp6kG7eZ" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T22:16:24.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F_WoCbm1fUO2hAStTHsH" version="21.3.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry x="384" y="100" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;This is the main code component controlling the player&#39;s movement of our game.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;It contains the ability that:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Controls the fundamental movement&lt;/li&gt;&lt;li&gt;Controls the unique grappling and swinging feature of the game&lt;/li&gt;&lt;li&gt;Representing the status of the player (is player on the ground, shooting the grapple etc). This is used for animation and sound effect later.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="533" y="180" width="470" height="140" as="geometry" />
+          <mxGeometry x="510" y="180" width="470" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.504;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OplHzY_NFLYkm-QExxTc-5" target="OplHzY_NFLYkm-QExxTc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,37 +46,37 @@
           <mxGeometry x="539" y="339" width="460" height="180" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-15" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="484" y="310" width="520" height="10" as="geometry" />
+          <mxGeometry x="480" y="329" width="554" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-16" value="&lt;i style=&quot;font-weight: normal;&quot;&gt;Player Animation&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="164" y="580" width="160" height="86" as="geometry" />
+          <mxGeometry x="164" y="580" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OplHzY_NFLYkm-QExxTc-17" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-16" vertex="1">
+        <mxCell id="OplHzY_NFLYkm-QExxTc-17" value="+ PlayerController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-16" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="OplHzY_NFLYkm-QExxTc-16" vertex="1">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="OplHzY_NFLYkm-QExxTc-19" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-16" vertex="1">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        <mxCell id="OplHzY_NFLYkm-QExxTc-19" value="+ doAnimation()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-16" vertex="1">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-20" value="&lt;i style=&quot;font-weight: normal;&quot;&gt;Player SFX&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="339" y="580" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="OplHzY_NFLYkm-QExxTc-21" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-20" vertex="1">
+        <mxCell id="OplHzY_NFLYkm-QExxTc-21" value="+ PlayerController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-20" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="OplHzY_NFLYkm-QExxTc-20" vertex="1">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="OplHzY_NFLYkm-QExxTc-23" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-20" vertex="1">
+        <mxCell id="OplHzY_NFLYkm-QExxTc-23" value="+ doSoundEffect()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OplHzY_NFLYkm-QExxTc-20" vertex="1">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-36" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="485" y="529" width="520" height="10" as="geometry" />
+          <mxGeometry x="480" y="529" width="555" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="OplHzY_NFLYkm-QExxTc-38" value="&lt;div style=&quot;&quot;&gt;These components are not in the player controller, they are external components, controlling either animation or sound effects.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;The reason I show them here is: We&#39;re using &lt;b&gt;Observer Pattern,&lt;/b&gt; and these components serve as observers where the&lt;i&gt; Player Controller&lt;/i&gt;&amp;nbsp; is the subject to be observed.&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="546.5" y="570.5" width="443" height="105" as="geometry" />
+        <mxCell id="OplHzY_NFLYkm-QExxTc-38" value="&lt;div style=&quot;&quot;&gt;These components are not in the player controller, they are external components, controlling either animation or sound effects.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;The reason I show them here is: We&#39;re using &lt;b&gt;Observer Pattern,&lt;/b&gt; and these components serve as observers where the&lt;i&gt; Player Controller&lt;/i&gt;&amp;nbsp; is the subject to be observed. Once some events happened in &lt;i&gt;Player Controller&lt;/i&gt;, corresponding scripts will be activated in these components, as they are subscribed to these events and observing them.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Subscription is done when the game first launched.&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="546.5" y="570.5" width="443" height="139.5" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OplHzY_NFLYkm-QExxTc-16" target="OplHzY_NFLYkm-QExxTc-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -113,6 +113,24 @@
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-46" value="Observe" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="OplHzY_NFLYkm-QExxTc-45" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv8eFoHNjusGtidA5lIJ-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="290" as="sourcePoint" />
+            <mxPoint x="500" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zv8eFoHNjusGtidA5lIJ-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499" y="459.5" as="sourcePoint" />
+            <mxPoint x="565" y="459.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zv8eFoHNjusGtidA5lIJ-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444" y="700" as="sourcePoint" />
+            <mxPoint x="510" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
