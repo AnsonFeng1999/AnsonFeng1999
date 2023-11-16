@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T22:16:24.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F_WoCbm1fUO2hAStTHsH" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T18:01:54.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QLvGSSK3sO62V8ovMci7" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -24,8 +24,8 @@
         <mxCell id="OplHzY_NFLYkm-QExxTc-3" value="Grapple Feature" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="112" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="OplHzY_NFLYkm-QExxTc-1" value="Code Overview For Iron Jungle" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="384" y="100" width="380" height="30" as="geometry" />
+        <mxCell id="OplHzY_NFLYkm-QExxTc-1" value="Code Overview For Iron Jungle Player Controller" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="302" y="100" width="566" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OplHzY_NFLYkm-QExxTc-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;This is the main code component controlling the player&#39;s movement of our game.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;It contains the ability that:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Controls the fundamental movement&lt;/li&gt;&lt;li&gt;Controls the unique grappling and swinging feature of the game&lt;/li&gt;&lt;li&gt;Representing the status of the player (is player on the ground, shooting the grapple etc). This is used for animation and sound effect later.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="180" width="470" height="140" as="geometry" />
@@ -114,19 +114,19 @@
         <mxCell id="OplHzY_NFLYkm-QExxTc-46" value="Observe" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="OplHzY_NFLYkm-QExxTc-45" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zv8eFoHNjusGtidA5lIJ-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zv8eFoHNjusGtidA5lIJ-0" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="434" y="290" as="sourcePoint" />
             <mxPoint x="500" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zv8eFoHNjusGtidA5lIJ-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zv8eFoHNjusGtidA5lIJ-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499" y="459.5" as="sourcePoint" />
             <mxPoint x="565" y="459.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zv8eFoHNjusGtidA5lIJ-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zv8eFoHNjusGtidA5lIJ-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="444" y="700" as="sourcePoint" />
             <mxPoint x="510" y="700" as="targetPoint" />
