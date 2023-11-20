@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T23:06:52.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qmLxgvd0V__B0seRd-_N" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T23:38:22.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g8Royz2D-EaRM822ii9W" version="22.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1728" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="MapManager" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="174" width="330" height="200" as="geometry">
+          <mxGeometry x="290" y="174" width="330" height="200" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -43,39 +43,42 @@
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="253.66666666666674" as="targetPoint" />
+            <mxPoint x="630" y="253.66666666666674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-5" value="&lt;div style=&quot;&quot;&gt;This is the script controlling the entire isometric tilemap system which is the base of our game. It controls creating the tile map, and also provide getting list of tiles methods.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Initiating the tilemap is crucial for our game as it&#39;s the base for installing &quot;turrets&quot; or providing a destination for &quot;zombies&quot;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GetSurroundingTiles returns a list of tiles of four different direction of the given tile&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GetTilesInRange is used in multiple components as it provides the actual list of tiles that a turret can hit as well as highlighting potential range of the turret on UI&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="174" width="470" height="160" as="geometry" />
+          <mxGeometry x="680" y="174" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-6" value="&lt;i&gt;OverlayTile / Tile&lt;/i&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="206" width="150" height="52" as="geometry" />
+          <mxGeometry x="65" y="206" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-7" value="+ Attributes: location, etc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0uEgW_L9G431bhveBdh5-6">
           <mxGeometry y="26" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125.33333333333348" y="258" as="targetPoint" />
+            <mxPoint x="140.33333333333348" y="258" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-10" value="&lt;div style=&quot;&quot;&gt;The most fundamental object of the game: tile.&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="322" width="180" height="38" as="geometry" />
+          <mxGeometry x="50" y="322" width="180" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-16" value="Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="208" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-19" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="350" width="470" height="10" as="geometry" />
+          <mxGeometry x="670" y="350" width="470" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425.3333333333335" y="390" as="targetPoint" />
+            <mxPoint x="455.3333333333335" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-20" target="0uEgW_L9G431bhveBdh5-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-20" value="MouseController" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="450" width="350" height="142" as="geometry">
+          <mxGeometry x="280" y="412" width="350" height="142" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -92,13 +95,83 @@
           <mxGeometry y="86" width="350" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-27" value="+ UI showing Methods (cursor hovering, turret on building etc)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0uEgW_L9G431bhveBdh5-20">
-          <mxGeometry y="114" width="350" height="28" as="geometry" />
+          <mxGeometry y="114" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0uEgW_L9G431bhveBdh5-29" value="&lt;div style=&quot;&quot;&gt;This is the script controlling mouse cursor behaviors, it acts like a interface between actual turret building/mounting and UI showing.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;It highlights tile that the cursor currently pointing to.&lt;/li&gt;&lt;li&gt;It cooperates with Shop UI system to enable player to build turrets on click&lt;/li&gt;&lt;li&gt;during the process of building (which the player is choosing where to deploy), it shows the range of the turret on the hovering/potential location&lt;/li&gt;&lt;li&gt;It also support UI showing on removing the turrets&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Although it controls UI effect, it also calls actual building/removing methods from &lt;i&gt;WeaponBuildingManager&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="441" width="470" height="160" as="geometry" />
+        <mxCell id="0uEgW_L9G431bhveBdh5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="461.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-29" value="&lt;div style=&quot;&quot;&gt;This is the script controlling mouse cursor behaviors, it acts like a interface between actual turret building/mounting and UI showing.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;It highlights tile that the cursor currently pointing to.&lt;/li&gt;&lt;li&gt;It cooperates with Shop UI system to enable player to build turrets on click&lt;/li&gt;&lt;li&gt;during the process of building (which the player is choosing where to deploy), it shows the range of the turret on the hovering/potential location&lt;/li&gt;&lt;li&gt;It also support UI showing on removing the turrets&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Although it controls UI effect, it also calls actual building/removing methods from &lt;i&gt;WeaponBuildingManager. &lt;/i&gt;That&#39;s why it acts like an interface.&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="382" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0uEgW_L9G431bhveBdh5-31" value="Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="398" width="40" height="30" as="geometry" />
+          <mxGeometry x="460" y="382" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-33" target="0uEgW_L9G431bhveBdh5-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-33" value="WeaponBuildManager" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="600" width="350" height="120" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-34" value="+ weaponPrefabs: GameObject[]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="0uEgW_L9G431bhveBdh5-33">
+          <mxGeometry y="26" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-36" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="0uEgW_L9G431bhveBdh5-33">
+          <mxGeometry y="52" width="350" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-37" value="+ MountWeapons(int, OverlayTile)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0uEgW_L9G431bhveBdh5-33">
+          <mxGeometry y="60" width="350" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-38" value="+ RemoveWeapons(OverlayTile)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0uEgW_L9G431bhveBdh5-33">
+          <mxGeometry y="88" width="350" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="660.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-39" value="&lt;div style=&quot;&quot;&gt;This component direct control the building/removing the turret objects, it also connects the dashboard UI component: updating the currency.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;It also connects the tile with the turret object. It instantiate the turret object and provide tile information to it&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;It directly supports:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Mounting/Building turrets&lt;/li&gt;&lt;li&gt;Removing turrets&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="590" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-40" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="570" width="470" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-44" value="Use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="560" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-46" value="TurretBehavior" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="780" width="250" height="120" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-47" value="+ Turret Attributes (location, level etc)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="0uEgW_L9G431bhveBdh5-46">
+          <mxGeometry y="26" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-48" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="0uEgW_L9G431bhveBdh5-46">
+          <mxGeometry y="52" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-49" value="+ Animation Related Methods" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0uEgW_L9G431bhveBdh5-46">
+          <mxGeometry y="60" width="250" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-50" value="+ Turret Attacking Methods" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0uEgW_L9G431bhveBdh5-46">
+          <mxGeometry y="88" width="250" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0uEgW_L9G431bhveBdh5-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-51" value="&lt;div style=&quot;&quot;&gt;This script controls the actual behavior of turrets:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Turret Setup&lt;/li&gt;&lt;li&gt;Enemy Targetting&lt;/li&gt;&lt;li&gt;Turret Firing&lt;/li&gt;&lt;li&gt;Overlay tile resetting (used when removing turrets)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="800" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-52" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="770" width="470" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0uEgW_L9G431bhveBdh5-55" value="Instantiate this object" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="740" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
