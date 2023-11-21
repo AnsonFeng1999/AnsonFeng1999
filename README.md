@@ -7,7 +7,7 @@
 - 💼 And you might find the [**Projects**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Collection/ListofContent.md) of Mine here
 - 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**
 - 👯 I’m looking to collaborate on ***Any Games, or Game Jams***
-- 📖 I'm reading [**Game Programming Pattern**](https://gameprogrammingpatterns.com/) recenly, currently on [this chapter](https://gameprogrammingpatterns.com/flyweight.html).
+- 📖 I'm reading [**Game Programming Pattern**](https://gameprogrammingpatterns.com/) recenly, currently on [**Flyweight**](https://gameprogrammingpatterns.com/flyweight.html).
 - 📫 How to reach me: **ansonfeng1999@gmail.com**
 - 😄 Pronouns: **Taihou, Tai or Anson**
 - ⚡ Fun fact: I love games, and I have ***2000hr+*** on the Tactical Shooter [***Rainbow 6 Siege***](https://www.ubisoft.com/en-ca/game/rainbow-six/siege).
