@@ -4,6 +4,7 @@
 <h1 align="center">💼 Projects </h1>
 
 ### [Iron Jungle](https://github.com/TaihouAnF/Iron-Jungle) | July, 2023
+*My First Game Jam: Summer 2023 - Theme: theme is optional*
 
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Iron_Jungle.png"/>
@@ -22,6 +23,7 @@
 ---
 
 ### [Beautiful Idle Game - Zombie Cleaning Service](https://github.com/TaihouAnF/Beautiful-Idle-Game) | June, 2023
+*Summer Slow Jams 2023: Idle - Theme: “Mutation”*
 
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Zombie_Cleaning.png"/>
@@ -41,6 +43,7 @@
 ---
 
 ### [Shifting Dimension](https://github.com/TaihouAnF/Shifting_Dimension) | May, 2023
+*GDTV Game Jam 2023 - Theme: “Life in 2 Dimensions”*
 
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Shifting_dimension.png"/>
@@ -79,6 +82,7 @@ A detailed description can be found in the project.
 ---
 
 ### [Beep Boop Babies](https://github.com/TaihouAnF/beepboopbabies) | April, 2023
+*Level Up Showcase 2023 Toronto - Theme: No Theme*
 
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/BBB.png"/>
