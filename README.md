@@ -4,8 +4,8 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 🔭 I’m currently working on [**SDL_demos**](https://github.com/TaihouAnF/SDL_Demos) and [**Fighters**](https://github.com/TaihouAnF/Fighters)
-- 💼 And you might find the [**Projects**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Collection/ListofContent.md) of Mine here
-- 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**
+- 💼 And you might find the [**Projects**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Collection/ListofContent.md) of mine here
+- 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**, I'm also working on some projects use **C++**
 - 👯 I’m looking to collaborate on ***Any Games, or Game Jams***
 - 📖 I'm reading [**Game Programming Pattern**](https://gameprogrammingpatterns.com/) recenly, currently on [**Flyweight**](https://gameprogrammingpatterns.com/flyweight.html).
 - 📫 How to reach me: **ansonfeng1999@gmail.com**
