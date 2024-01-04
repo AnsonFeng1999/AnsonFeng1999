@@ -3,6 +3,25 @@
 
 <h1 align="center">💼 Projects </h1>
 
+### [Rasterizer](https://github.com/TaihouAnF/Rasterizer) | January, 2024
+*Personal Learning, following the tutorial from [Code-It-Yourself! 3D Graphics Engine Series](https://youtu.be/ih20l3pJoeU?si=hpAbI-8SmvuPoPUX)*
+
+<p align="center">
+  <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Rasterizer.png"/>
+</p> 
+
+* A 3D Rasterizer built with C++, and going to change low level API using SDL(currently I'm using olcEngine), following the tutorial,
+  I transform the knowledge into my own code implementation.
+* Developer:
+  * Developed vector, matrix, triangle, and meshes.
+  * Implemented projection, lighting based on light source and surface normal, culling using painter's algorithm, and loading object mesh files.
+  * Implemented moving camera and mesh clipping.
+* Capable of moving a camera and setting up an active scene
+* C++, SDL, OpenGL(possiblly), 3D Maths
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 ### [Iron Jungle](https://github.com/TaihouAnF/Iron-Jungle) | July, 2023
 *My First Game Jam: Summer 2023 - Theme: theme is optional*
 
