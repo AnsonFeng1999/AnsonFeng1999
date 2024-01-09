@@ -17,7 +17,7 @@
   * Implemented projection, lighting based on light source and surface normal, culling using painter's algorithm, and loading object mesh files.
   * Implemented moving camera and mesh clipping.
 * Capable of moving a camera and setting up an active scene
-* C++, SDL, OpenGL(possiblly), 3D Maths
+* C++, SDL, OpenGL(possibly), 3D Maths
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
