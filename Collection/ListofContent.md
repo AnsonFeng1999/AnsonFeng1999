@@ -3,13 +3,14 @@
 
 <h1 align="center">💼 Projects </h1>
 
-### [Chainmail](https://github.com/TaihouAnF/Rasterizer) | Aug, 2024
+### [Chainmail](https://github.com/TaihouAnF/Chain-Mail) | Aug, 2024
 *U of U MEAE rapid prototype project I - Theme: Classic Arcade Game Renovation*
 
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Chainmail-sc"/>
 </p> 
 
+* Complete Game demo: [**Demo**](https://tratos.itch.io/chain-mail)
 * Chain Mail is based off the classic arcade game "Centipede," but this time- you're the centipede! Control multiple chains at once and navigate to the bottom of the screen.
 
   Try to get your longest chain mail to the bank account to earn the most points possible!
