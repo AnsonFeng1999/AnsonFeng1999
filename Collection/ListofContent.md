@@ -3,21 +3,23 @@
 
 <h1 align="center">💼 Projects </h1>
 
-### [Chainmail](https://github.com/TaihouAnF/Rasterizer) | January, 2024
-*UofU rapid prototype project I - Classic Arcade Game Renovation*
+### [Chainmail](https://github.com/TaihouAnF/Rasterizer) | Aug, 2024
+*U of U MEAE rapid prototype project I - Theme: Classic Arcade Game Renovation*
 
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Chainmail-sc"/>
 </p> 
 
-* A 3D Rasterizer built with C++, and going to change low level API using SDL(currently I'm using olcEngine), following the tutorial,
-  I transform the knowledge into my own code implementation.
-* Developer:
-  * Developed vector, matrix, triangle, and meshes.
-  * Implemented projection, lighting based on light source and surface normal, culling using painter's algorithm, and loading object mesh files.
-  * Implemented moving camera and mesh clipping.
-* Capable of moving a camera and setting up an active scene
-* C++, SDL, OpenGL(possibly), 3D Maths
+* Chain Mail is based off the classic arcade game "Centipede," but this time- you're the centipede! Control multiple chains at once and navigate to the bottom of the screen.
+
+  Try to get your longest chain mail to the bank account to earn the most points possible!
+* Game Engineer:
+  * Developed enemy movement system which randomly tracking one part of the player as the target, the enemy would move towards with a random part of the player, much like a steering effect.
+  * Implemented enemy attacking logic with options to change rate of fire and bullet speed.
+  * Designed and created level and difficulty progression system by utilizing player score system, enemy movement system, and enemy attacking logic, providing engaging gameplay experience:
+    * Each level has a different goal and the enemy would have different buff.
+  * Implemented an extra enemy type which is called "agent". It moves diagonally with random direction, acting like a bullet to prevent the player to reach the target.
+* C#, Unity3D
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -31,7 +33,7 @@
 
 * A 3D Rasterizer built with C++, and going to change low level API using SDL(currently I'm using olcEngine), following the tutorial,
   I transform the knowledge into my own code implementation.
-* Developer:
+* Engineer:
   * Developed vector, matrix, triangle, and meshes.
   * Implemented projection, lighting based on light source and surface normal, culling using painter's algorithm, and loading object mesh files.
   * Implemented moving camera and mesh clipping.
@@ -50,7 +52,7 @@
 
 * Complete Game demo: [**Demo**](https://leption.itch.io/iron-jungle) | A Playthrough Video: [**YouTube Video**](https://youtu.be/sWqLsdyJnhs)
 * A 2.5D platformer game with a unique grapple/swinging feature to help you to go up to the destination, developed using Unity3D.
-* Game Developer and Level Designer:
+* Game Engineer and Level Designer:
   * Developed the core movement, and grappling/swinging ability of the player using the SpringJoint feature; collaborated with the team to integrate animation and sound with the movement
   * Developed multiple platform behaviors, which various platforms can be created by changing the combination of behaviors
   * Designed **2** distinct levels (easy and medium difficulty)
@@ -69,7 +71,7 @@
 
 * Complete Game demo: [**Demo**](https://taihoudesu.itch.io/beautiful-idle-game) | A Playthrough Video: [**YouTube Video**](https://youtu.be/pTjxnDoNzSo)
 * An isometric view idle game with a little tower defense developed using Unity3D. Purchase and build turrets to kill infinitely spawning "zombies" and get rewards.
-* Game Developer:
+* Game Engineer:
   * Developed turret building system in which player can build a turret when clicking on valid tiles
   * Developed range tiles highlighting using Breadth First Search-like algorithm, visualized the turret attack range
   * Developed turret firing feature and implemented a "slow effect" mechanic
@@ -89,7 +91,7 @@
 
 * Complete Game demo: [**Demo**](https://taihoudesu.itch.io/shifting-dimension) | A Playthrough Video: [**YouTube Video**](https://youtu.be/65fz8wysiCg)
 * A 2.5D puzzle platformer where you would use a “shifting dimension” feature to stand on platforms, to dodge attacks, and to go past obstacles. The final destination is on the right end of the map.
-* Game Developer and Level Designer:
+* Game Engineer and Level Designer:
   * Developed the "Shifting Dimensions" feature and a corresponding movement system using C#
   * Synchronized the character’s animation with the player’s movement using Unity Animator system
   * Applied particle and sound effects in the game to improve visual and auditory feedback given to players
@@ -108,7 +110,7 @@
 
 * A 2D light simulator and 3D Rendering Engine with Ray-Tracing and Path-Tracing features developed by using C.\
 A detailed description can be found in the project.
-* Developer and Maintainer:
+* Engineer and Maintainer:
   * Simulated light ray propagation (reflecting, refracting, and diffusing) in 2D with point light sources
   * Developed basic backward Ray-Tracing using local [**"Phong Model"**](https://en.wikipedia.org/wiki/Phong_reflection_model) and point light source
   * Improved the previous Ray-Tracer to support more features (including multi-threading, anti-aliasing, area light sources, mappings, etc)
@@ -145,7 +147,7 @@ A detailed description can be found in the project.
 </p>
 
 * A gamified restaurant web app by integrating coupon and achievement system, developed by using python Flask.
-* Developer:
+* Engineer:
   * Implemented registration & login system for users using Python and MySQL in the 1st sprint 
   * Cooperated actively to build the core feature: Achievement System
   * Designed unit test suites for multiple components throughout the development
@@ -154,13 +156,13 @@ A detailed description can be found in the project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
+<!---
 ### [Fighter](https://github.com/TaihouAnF/Fighters) | TBD
 
 <!---
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/PickEasy.png"/>
-</p> --->
+</p> 
 
 * A WIP personal game project, inspired by 2D vertical bullet games, developed by using Unity3D.
 * Developer, and I will be applying multiple design patterns into the development of the game.
@@ -174,12 +176,12 @@ A detailed description can be found in the project.
 <!---
 <p align="center">
   <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/PickEasy.png"/>
-</p> --->
+</p> 
 
 * A WIP personal game project, replicating famous simple games like Tetris or Pong, in C++.
 * Developer, and I will be using skills I learned to make these games in plain C++.
 * C++, SDL
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+--->
 ---
 
