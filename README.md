@@ -3,8 +3,8 @@
 ## Introduction
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🔭 I’m currently working on [**Rasterizer**](https://github.com/TaihouAnF/Rasterizer)
-- 💼 And you might find the [**Projects**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Collection/ListofContent.md) of mine here
+- 🔭 I’m currently working on a **rapid prototype** which only utilize blueprints feature in Unreal Engine 5, and I'm also learning it.
+- 💼 And you might find the [**Projects/Portfolio**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Collection/ListofContent.md) of mine here
 - 🌱 I’m currently learning **Unity/C#, Unreal/C++ and Blender**, I'm also working on some projects use **C++** and SDL
 - 👯 I’m looking to collaborate on ***Any Games, or Game Jams***
 - 📖 I'm reading [**Game Programming Pattern**](https://gameprogrammingpatterns.com/) recenly, currently on [**Observer**](https://gameprogrammingpatterns.com/observer.html).
