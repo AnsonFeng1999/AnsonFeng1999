@@ -3,6 +3,25 @@
 
 <h1 align="center">💼 Projects </h1>
 
+### [To My Lighthouse](https://github.com/TaihouAnF/To_My_Lighthouse) | Sep, 2024
+*U of U MEAE rapid prototype project II - Theme: Serious Game*
+
+<p align="center">
+  <img src="https://github.com/TaihouAnF/TaihouAnF/blob/main/assets/Team%209%20Onesheet%20-To%20My%20Lighthouse.png"/>
+</p> 
+
+* Complete Game demo: [**Demo**](https://cookmysocks.itch.io/to-my-lighthouse)
+* To-My-LightHouse is yet another project which a new team was formed and we created the game from scratch.
+* It is about loneliness, recognize player to be aware of loneliness as well as facing it.
+
+  In the game, you will be given dialog question and you will make the choice yourself.
+* Game Engineer:
+  * Developed Rotation of the player, camera following using "cinemachine", and decision making detection by checking forward vector and direction vector.
+  * Developed the moving and basic logic behavior of the "sun" and the "lighthouse": the "Sun" would be stop/dock to an area when asking question, lighthouse would be approach/escape to/from the player if answering correct/wrong.
+  * Handled desicion making UI, scene changing logic and VFX, bug fixing and etc. 
+* C#, Unity3D, Cinemachine
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### [Chainmail](https://github.com/TaihouAnF/Chain-Mail) | Aug, 2024
 *U of U MEAE rapid prototype project I - Theme: Classic Arcade Game Renovation*
 
