@@ -11,7 +11,7 @@
 - 📫 How to reach me: **ansonfeng1999@gmail.com**
 - 😄 Pronouns: **Taihou, Tai or Anson**
 - ⚡ Fun fact: I love games, and I have ***2000hr+*** on the Tactical Shooter [***Rainbow 6 Siege***](https://www.ubisoft.com/en-ca/game/rainbow-six/siege).
-- 🌐 Check out my [**Personal Website (WIP)**](https://taihouanf.github.io), my [**Itch.io Profile Page**](https://taihoudesu.itch.io/) where contains games I made and my [**Resume**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Collection/AnsonFeng_New_EngineerResume.pdf).
+- 🌐 Check out my [**Personal Website (WIP)**](https://taihouanf.github.io), my [**Itch.io Profile Page**](https://taihoudesu.itch.io/) where contains games I made, and my [**Resume**](https://github.com/TaihouAnF/TaihouAnF/blob/main/Collection/AnsonFeng_New_EngineerResume.pdf).
 
 ## Summary
 
